@@ -1,0 +1,28 @@
+name: invertedculture
+favicon: null
+layout_spectrum: 0.04790562950074673
+typography_spectrum: 0.471020202152431
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.748046160209924
+  lightness: 0.9130500229075551
+  saturation: 0.1914314164314419
+  rhythmicContrast: 0.09981696074828506
+purpose: []
