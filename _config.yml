@@ -1,7 +1,7 @@
 name: invertedculture
 favicon: null
-layout_spectrum: 0.04790562950074673
-typography_spectrum: 0.471020202152431
+layout_spectrum: 0.87116
+typography_spectrum: 0.03032
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.748046160209924
+  brandStrength: 0.5
   lightness: 0.9130500229075551
-  saturation: 0.1914314164314419
+  saturation: 1
   rhythmicContrast: 0.09981696074828506
 purpose: []
